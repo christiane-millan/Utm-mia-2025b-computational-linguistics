@@ -9,6 +9,8 @@ Por: Christian Millán
 Unidad 1. Introducción a la lingüística
 
 - [Expresiones regulares](./L01-intro/README.md)
-- [Análisis Exploratorio de Datos Textuales](./L01-intro/eda_text.ipynb)
+- [Análisis Exploratorio de Datos](./L01-intro/eda_text.ipynb)
+- [Limpieza de datos textuales](./)
+- [Tokenización]()
 
 Unidad 2. 
